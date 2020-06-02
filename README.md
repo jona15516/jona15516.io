@@ -1,1 +1,2 @@
-# jona15516.io
+ Jonathan Mensah
+ This is my very first blog
