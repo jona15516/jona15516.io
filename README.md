@@ -1,2 +1,1 @@
- Jonathan Mensah
- This is my very first blog
+My first blog ~ Jonathan 
